@@ -1,0 +1,42 @@
+{
+  "program": "DFAUT26-4270",
+  "term": "Autumn 2026",
+  "included_course_codes": [
+    "DFAUT26-4270-101",
+    "DFAUT26-4270-102",
+    "DFAUT26-4270-103",
+    "DFAUT26-4270-104",
+    "DFAUT26-4270-105",
+    "DFAUT26-4270-106"
+  ],
+  "excluded_course_codes": [
+    "DFAUT26-4270-900"
+  ],
+  "excluded_program_office_code": "DFAUT26-4270-PO",
+  "item_kinds": [
+    "assignment",
+    "quiz"
+  ],
+  "include_quiz_types": [
+    "assignment",
+    "practice_quiz",
+    "graded_survey",
+    "survey"
+  ],
+  "include_unpublished_items": true,
+  "exclude_quiz_wrapper_assignments": true,
+  "graded_quiz_types": [
+    "assignment",
+    "graded_survey"
+  ],
+  "minimum_graded_assessments": 2,
+  "register_columns": [
+    "course_code",
+    "item_kind",
+    "item_name",
+    "due_date",
+    "graded"
+  ],
+  "announcement_title": "Assessment Register: Action Required",
+  "register_marker": "TERM ASSESSMENT REGISTER (AUTUMN 2026)"
+}
